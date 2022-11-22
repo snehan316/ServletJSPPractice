@@ -1,0 +1,2 @@
+# ServletJSPPractice
+Technical Blog Application
